@@ -26,7 +26,7 @@ Download the version (Mac or Windows) that matches your machine.
 - Create an account. Save your username and password somewhere you can access from any machine. Write it down on paper or in a cloud-saved note or somewhere accessile.
 - Upon creating an account, you will be asked a few question on how you plan on using Atlas. The answers given on this first page do not matter.
 - Select M0 database, because it's free. By default, M10 may be selected, **PLEASE MAKE SURE YOU SELECT THE FREE VERSION!!**
-- Select Google Cloud, every other setting has been default.
+- Select AWS, every other setting has been default.
 - Create Cluster0 by clicking Create Deployment at the bottom right.
 - Create a database user (Username and Password). It's recommended to use the same password as for your MongoDB account—the one you saved somewhere.
 - You will be directed to a menu with "Connect to Cluster0" at the top.  If not you should still see your Cluster0 on the dashboard with a "CONNECT" button under it, click that button.
