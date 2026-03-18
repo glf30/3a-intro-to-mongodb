@@ -123,7 +123,6 @@ const connectToMongoDb = async function () {
     }
 }
 
-mongoose.set("strictQuery", false);
 connectToMongoDb();
 ```
 
